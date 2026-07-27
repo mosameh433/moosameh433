@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35B49F&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Ahmed+Kotb;CS+Student+%7C+Future+Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35B49F&center=true&vCenter=true&width=500&lines=Hey+there+👋;I'm+Mohammed+Sameh;CS+Student+%7C+Future+Full-Stack+Developer)
 
 </div>
 
@@ -38,7 +38,7 @@ Interested in growing as a **Full-Stack Developer** and strengthening my underst
 
 ## 🌐 Connect With Me
 
-- 📧 Gmail:kotba3788@gmail.com  
-- 💼 LinkedIn:www.linkedin.com/in/
-ahmed-kotb-b8ab3136b
+- 📧 Gmail:moosameh.433@gmail.com 
+- 💼 LinkedIn:https://www.linkedin.com/in/mohamed-sameh-7b74463a0
+
 
