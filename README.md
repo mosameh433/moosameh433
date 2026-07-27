@@ -8,9 +8,7 @@
 
 ## 👨‍💻 About Me
 
-💻 **CS Student @ [FCI - Suez Canal University](https://ci.suez.edu.eg/en)**  
-🚀 Passionate about **Full-Stack Development** & **Software Engineering**
-🔥 Love building real-world projects and solving problems  
+**CS** studentat [**FCI-SCU**](https://suez.edu.eg/ar/) passionate about **Full-Stack Development**, **Software Engineering**, and building real-world software projects.
 
 ---
 
@@ -27,15 +25,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moosameh433&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moosameh433&theme=tokyonight" />
 </p>
 
 ---
