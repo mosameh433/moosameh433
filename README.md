@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/_mo__sameh_?igsh=MW10dGpwejJlMWQ4OA%3D%3D&utm_source=qr">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="45"/>
   </a>
-  <a href="https://wa.me/qr/EMHTWTRKYRSCD1">
+  <a href="https://wa.me/201063776721">
     <img src="https://img.icons8.com/color/48/whatsapp.png" width="45"/>
   </a>
 </p>
