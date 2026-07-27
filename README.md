@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-💻 **Computer Science Student** at **FCI-SCU**  
-🚀 Passionate about **Full-Stack Development** & **Software Engineering**  
+💻 **CS Student @ [FCI - Suez Canal University](https://ci.suez.edu.eg/en)**  
+🚀 Passionate about **Full-Stack Development** & **Software Engineering**
 🔥 Love building real-world projects and solving problems  
 
 ---
